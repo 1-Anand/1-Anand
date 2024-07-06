@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_anand_bhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anand_bhushan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anand-bhushan-477871ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-bhushan-477871ba" height="30" width="40" /></a>
+<a href="https://twitter.com/1_anand_bhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anand_bhushan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/1-Anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-bhushan-477871ba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -20,7 +20,7 @@
 <!-- About Me -->
 - 🌱 I’m currently learning **DevSecOps, AWS Cloud, GCP**
 - 💬 Ask me about **Azure DevOps, Terraform**
-- 📫 How to reach me **in.anandbhushan@gmail.com**
+- 📫 How to reach me **anandbhushan.inbox@gmail.com**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14QsHiIhO5jW-_HKxCYBm46ZrSYa7i4-X/view?usp=sharing)
 - ⚡ Fun fact **I am funny**
 

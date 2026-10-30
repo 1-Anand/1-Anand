@@ -3,15 +3,6 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="MasterHead Banner" width="100%" />
 </p>
 
-<!-- 2. NVIDIA Physical AI Halos Hero Animation -->
-<p align="center">
-  <img src="./assets/nvidia-physical-ai-halos.gif" alt="NVIDIA Physical AI Halos" width="100%" />
-</p>
-
-<!-- 3. Moving Water Wave Header Overlapping Banner -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7b42bc&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Anand%20Bhushan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Lead%20/%20Senior%20Azure%20DevOps%20Engineer%20%7C%20CKA%20%E2%80%A2%20AZ-400%20%E2%80%A2%20AZ-104%20%E2%80%A2%20AI-102&descAlignY=65&descSize=17" alt="Wave Header" />
-</p>
 
 <!-- 4. Live Typing Animation -->
 <p align="center">

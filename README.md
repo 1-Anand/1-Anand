@@ -103,20 +103,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-### 🚀 Featured Production Engineering Repositories
-
-| Repository | Focus Area | Key Architectural Highlights |
-| :--- | :--- | :--- |
-| **[`azure-enterprise-landingzone-terraform`](https://github.com/1-Anand)** | Enterprise Cloud & IaC | Modular Hub-Spoke topology, Azure Firewall, Private DNS & remote state locking |
-| **[`k8s-gitops-production-fleet`](https://github.com/1-Anand)** | Kubernetes (AKS) & GitOps | Multi-cluster AKS management, ArgoCD sync, Ingress-NGINX & Cert-Manager |
-| **[`azure-devops-aca-ephemeral-agents`](https://github.com/1-Anand)** | Scalable CI/CD Platform | Self-hosted Azure Container Apps agents scaling to zero with Workload Identity |
-| **[`devsecops-shift-left-security-pipeline`](https://github.com/1-Anand)** | DevSecOps & Governance | Automated secret auditing (Gitleaks), image CVE scan (Trivy) & SonarQube quality gates |
-| **[`azure-openai-enterprise-rag-ops`](https://github.com/1-Anand)** | Cloud AI & MLOps | Private Azure OpenAI deployment, AI Search vector index & secured VNet endpoints |
-| **[`DevOpsAutoapply`](https://github.com/1-Anand/DevOpsAutoapply)** | Automation & Analytics | Intelligent multi-platform career matching & end-to-end recruitment pipeline engine |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
 
 ### 🐍 GitHub Contribution Snake Game
 

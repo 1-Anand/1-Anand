@@ -1,134 +1,93 @@
-<!-- 1. Your Original Top Animated Banner -->
+<!-- Original animated banner -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="MasterHead" width="100%" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Animated banner" width="100%" />
 </p>
 
-<!-- 2. Moving Water Wave Header Overlapping Banner -->
+<!-- Custom full-width second animation: keep the assets folder beside this README -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7b42bc&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Anand%20Bhushan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Lead%20/%20Senior%20Azure%20DevOps%20Engineer%20%7C%20CKA%20%E2%80%A2%20AZ-400%20%E2%80%A2%20AZ-104%20%E2%80%A2%20AI-102&descAlignY=65&descSize=17" alt="Wave Header" />
+  <img src="./assets/anand-devops-flow.gif" alt="Anand Bhushan — Azure, DevOps, Kubernetes and platform engineering" width="100%" />
 </p>
 
-<!-- 3. Live Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=10+Years+in+IT+%7C+6.5%2B+Years+in+Azure+Cloud+%26+DevOps;Architecting+Secure+Azure+IaaS%2FPaaS+%26+Private+VNet+Ecosystems;Kubernetes+(AKS)+%E2%80%A2+Terraform+%E2%80%A2+Azure+DevOps+%E2%80%A2+GitHub+Actions;Certified+Kubernetes+Administrator+(CKA)+%26+Azure+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=10+years+in+IT+%7C+6.5%2B+years+in+Azure+Cloud+%26+DevOps;Architecting+secure+Azure+IaaS%2FPaaS+and+private+VNet+ecosystems;Kubernetes+(AKS)+%E2%80%A2+Terraform+%E2%80%A2+Azure+DevOps+%E2%80%A2+GitHub+Actions;CKA+%7C+AZ-400+%7C+AZ-104+%7C+AI-102" alt="Profile highlights" />
 </p>
 
-<!-- 4. Social Badges & Live Profile Views Counter (No Email / No Resume) -->
 <p align="center">
-  <a href="https://linkedin.com/in/1-anand" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/1_anand_bhushan" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=1-Anand&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://linkedin.com/in/1-anand"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/1_anand_bhushan"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=1-Anand&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="Profile views" />
 </p>
 
-<!-- Animated Aqua Line Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+---
 
-<!-- 5. Your Original Right-Side Animated Coding GIF -->
-<img align="right" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" />
+### 👋 About Me
 
-### 👨‍💻 About Me
-- 🚀 **10 years of IT experience** with **6.5+ years** specializing in **Azure Cloud, Kubernetes (AKS), Infrastructure as Code, and DevSecOps**
-- 🏗️ Designing secure **Azure IaaS/PaaS** environments with **VNet Integration, Private Endpoints, Private DNS, and Workload Identity Federation**
-- ⚙️ Building multi-stage CI/CD pipelines & containerized self-hosted agents on **Azure Container Apps (ACA)**
-- 🌱 Exploring **AIOps, Azure OpenAI Workloads, and Platform Engineering**
-- 💬 Ask me about **AKS, Terraform, Azure DevOps, GitHub Actions, Docker, Helm & Cloud Security**
-- ⚡ Fun fact: **I automate everything—and keep the team laughing while deployments go green!**
+- 🚀 **10 years in IT**, including **6.5+ years focused on Azure Cloud and DevOps**
+- ☁️ Design secure Azure IaaS/PaaS environments with private networking, Private Endpoints, Private DNS, and workload identity
+- ⚙️ Build CI/CD platforms and containerized self-hosted agents on Azure Container Apps
+- 🧱 Use Terraform to create reusable, maintainable infrastructure
+- 🔐 Bring security into delivery with secret detection and container scanning
+- 🌱 Exploring AIOps, Azure OpenAI workloads, and platform engineering
+- 💬 Ask me about AKS, Terraform, Azure DevOps, GitHub Actions, Docker, Helm, and cloud security
 
-<!-- Top 50 Repo Feature: Interactive Expandable Drawer -->
 <details>
-  <summary><b>🔍 Click to view my Core Enterprise DevOps Architecture Highlights</b></summary>
-  <br/>
-  <ul>
-    <li><b>Zero-Trust Cloud Networking:</b> Enterprise Azure PaaS resources isolated via Private Endpoints, Private DNS Zones, and VNet Integration.</li>
-    <li><b>Self-Hosted CI/CD Scale:</b> Ephemeral & containerized Azure DevOps agents running on Azure Container Apps (ACA) with Workload Identity Federation (passwordless auth).</li>
-    <li><b>Shift-Left DevSecOps:</b> Automated secret detection & container vulnerability scanning using Gitleaks, Trivy, and SonarQube gates.</li>
-    <li><b>Modular IaC:</b> Reusable Terraform modules with remote state locking, multi-environment workspaces, and automated drift detection.</li>
-  </ul>
+  <summary><b>🏗️ Selected architecture highlights</b></summary>
+  <br />
+
+  - **Zero-trust networking:** Azure PaaS resources protected with Private Endpoints, Private DNS Zones, and VNet integration.
+  - **Scalable CI/CD:** Ephemeral containerized Azure DevOps agents on Azure Container Apps, using passwordless Workload Identity Federation.
+  - **Shift-left security:** Gitleaks, Trivy, and SonarQube integrated into delivery pipelines.
+  - **Reusable infrastructure:** Terraform modules, remote state, environment separation, and drift detection.
 </details>
 
-<br clear="both"/>
+---
+
+### 🏅 Certifications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <a href="https://www.credly.com/badges/cd5003e7-68fc-4820-bad7-b51878eac831/public_url"><img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/331471CE2509E50A?sharingId=A2BAFE8E5363E046"><img src="https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnandBhushan-4039/A6020D43124AC82D?sharingId=67C3740E389ECBD6"><img src="https://img.shields.io/badge/AZ--104-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/266F6D2DFF6245DC?sharingId=A2BAFE8E5363E046"><img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-102" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnandBhushan-4039/FE6953D2CFA69CE1?sharingId=67C3740E389ECBD6"><img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/1CE3E227CD9CE8B9?sharingId=A2BAFE8E5363E046"><img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-900" /></a>
 </p>
 
-### 🏆 Verified Certifications (Click Badges to Verify)
-<p align="center">
-  <a href="https://www.credly.com/badges/cd5003e7-68fc-4820-bad7-b51878eac831/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/331471CE2509E50A?sharingId=A2BAFE8E5363E046" target="_blank">
-    <img src="https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400" />
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnandBhushan-4039/A6020D43124AC82D?sharingId=67C3740E389ECBD6" target="_blank">
-    <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" />
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/266F6D2DFF6245DC?sharingId=A2BAFE8E5363E046" target="_blank">
-    <img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-102" />
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnandBhushan-4039/FE6953D2CFA69CE1?sharingId=67C3740E389ECBD6" target="_blank">
-    <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/1CE3E227CD9CE8B9?sharingId=A2BAFE8E5363E046" target="_blank">
-    <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-900" />
-  </a>
-</p>
+---
+
+### 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,githubactions,jenkins,aws,gcp,linux,bash,git,prometheus,grafana,nginx,py,vscode&perline=8" alt="Azure, Terraform, Kubernetes, Docker, CI/CD, cloud and monitoring tools" />
 </p>
 
-### 🛠️ Cloud, DevOps & Tech Arsenal
-
-<!-- Top 50 Repo Feature: Modern Skillicons Dock -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,githubactions,jenkins,gcp,aws,linux,bash,git,prometheus,grafana,nginx,py,vscode&perline=8" alt="Tech Stack Icons" />
-</p>
-
-<br/>
-
-<div align="center">
-
-| Category | Technologies & Tools |
+| Focus | Tools |
 | :--- | :--- |
-| **☁️ Cloud & IaC** | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
-| **🐳 Containers & GitOps** | ![AKS](https://img.shields.io/badge/Kubernetes_(AKS)-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) |
-| **🚀 CI/CD & DevSecOps** | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white) ![Gitleaks](https://img.shields.io/badge/Gitleaks-FF4B4B?style=flat-square&logo=git&logoColor=white) |
-| **📈 Observability & OS** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Cloud & IaC** | Azure · Terraform · AWS · GCP |
+| **Containers & GitOps** | AKS · Kubernetes · Docker · Helm · Argo CD |
+| **CI/CD & Security** | Azure DevOps · GitHub Actions · SonarQube · Trivy · Gitleaks |
+| **Monitoring & Systems** | Prometheus · Grafana · Linux · Bash |
 
-</div>
+---
+
+### 📊 GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-### 🏅 GitHub Trophies & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1-Anand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-### 📊 GitHub Analytics & Contribution Graph
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=1-Anand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=1-Anand&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1-Anand&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=1-Anand&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Anand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Anand&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
-<!-- Top 50 Repo Feature: Full-Width Neon Contribution Activity Graph -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=1-Anand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=1-Anand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
-<!-- Animated Moving Water Wave Footer -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b42bc,50:0072ff,100:00c6ff&height=130&section=footer&text=Let's%20Build%20%26%20Automate%20at%20Scale%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="Wave Footer" />
+  <img src="https://github-profile-trophy.vercel.app/?username=1-Anand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
 </p>
+
+<p align="center"><i>Let's build, automate, and scale reliable cloud platforms. 🚀</i></p>
+

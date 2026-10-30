@@ -1,83 +1,109 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="MasterHead">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="MasterHead" width="100%" />
 </p>
 
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm Anand Bhushan</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">Lead / Senior Azure DevOps Engineer | CKA, AZ-400, AZ-104 & AI-102 Certified | 10 Yrs IT (6.5+ Yrs Cloud & DevOps)</h3>
+
+<!-- Social & Contact Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/1-anand" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/1_anand_bhushan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:anandbhushan.inbox@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://drive.google.com/file/d/14QsHiIhO5jW-_HKxCYBm46ZrSYa7i4-X/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+<hr/>
 
 <!-- Animated Image on Right -->
-<img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding">
+<img align="right" width="360" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" />
 
-<!-- Twitter Follow Badge -->
+### 👨‍💻 About Me
+- 🚀 **10 years of IT experience** with **6.5+ years** specializing in **Azure Cloud, Kubernetes (AKS), Infrastructure as Code, and DevSecOps**
+- 🏗️ Architecting secure **Azure IaaS/PaaS** environments with **VNet Integration, Private Endpoints, Private DNS, and Workload Identity Federation**
+- ⚙️ Building multi-stage CI/CD pipelines & containerized self-hosted agents on **Azure Container Apps (ACA)**
+- 🌱 Currently exploring **AIOps, Azure OpenAI Workloads, and Platform Engineering**
+- 💬 Ask me about **AKS, Terraform, Azure DevOps, GitHub Actions, Docker, Helm & Cloud Security**
+- 📫 Reach me at: **anandbhushan.inbox@gmail.com**
+
+<br clear="both"/>
+
+---
+
+### 🏆 Certifications (Click to Verify)
 <p align="left">
-  <a href="https://twitter.com/1_anand_bhushan" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/1_anand_bhushan?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://www.credly.com/badges/cd5003e7-68fc-4820-bad7-b51878eac831/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/331471CE2509E50A?sharingId=A2BAFE8E5363E046" target="_blank">
+    <img src="https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnandBhushan-4039/A6020D43124AC82D?sharingId=67C3740E389ECBD6" target="_blank">
+    <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/266F6D2DFF6245DC?sharingId=A2BAFE8E5363E046" target="_blank">
+    <img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-102" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnandBhushan-4039/FE6953D2CFA69CE1?sharingId=67C3740E389ECBD6" target="_blank">
+    <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/1CE3E227CD9CE8B9?sharingId=A2BAFE8E5363E046" target="_blank">
+    <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-900" />
   </a>
 </p>
 
-<!-- About Me -->
-- 🌱 I’m currently learning **DevSecOps, AWS Cloud, GCP**
-- 💬 Ask me about **Azure DevOps, Terraform**
-- 📫 How to reach me **anandbhushan.inbox@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14QsHiIhO5jW-_HKxCYBm46ZrSYa7i4-X/view?usp=sharing)
-- ⚡ Fun fact **I am funny**
+---
 
-<!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Cloud, DevOps & Tech Stack
+
+**Cloud & Infrastructure as Code:**
 <p align="left">
-  <a href="https://twitter.com/1_anand_bhushan" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/1-anand" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
 </p>
 
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+**Containers & Orchestration:**
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Kubernetes_(AKS)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="left">GitHub Stats:</h3>
+**CI/CD, DevSecOps & Observability:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+</p>
+
+**OS, Scripting & Web Servers:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1-Anand&show_icons=true&theme=algolia" alt="GitHub Stats" />
-</p>
-
-<!-- Top Languages -->
-<h3 align="left">Top Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Anand&layout=compact&theme=algolia" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=1-Anand&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Anand&layout=compact&theme=algolia" alt="Top Languages" />
 </p>

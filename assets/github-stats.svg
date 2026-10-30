@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #38bdf8; }
+    .bold { font-weight: 700; fill: #ffffff; }
+    .stagger { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #94a3b8; }
+    .rank-circle { stroke: #38bdf8; stroke-width: 4; fill: none; stroke-dasharray: 250; }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="449" height="194" fill="#0d1117" stroke="#30363d"/>
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Anand Bhushan's GitHub Stats</text>
+  </g>
+  <g transform="translate(25, 55)">
+    <g transform="translate(0, 20)">
+      <text class="stagger" x="0" y="0">Total Stars Earned:</text>
+      <text class="stat bold" x="220" y="0">7</text>
+    </g>
+    <g transform="translate(0, 45)">
+      <text class="stagger" x="0" y="0">Total Commits (2024-2026):</text>
+      <text class="stat bold" x="220" y="0">170+</text>
+    </g>
+    <g transform="translate(0, 70)">
+      <text class="stagger" x="0" y="0">Total Public Repositories:</text>
+      <text class="stat bold" x="220" y="0">11</text>
+    </g>
+    <g transform="translate(0, 95)">
+      <text class="stagger" x="0" y="0">Contributed to (All-Time):</text>
+      <text class="stat bold" x="220" y="0">25+ Ecosystems</text>
+    </g>
+  </g>
+  <g transform="translate(365, 110)">
+    <circle cx="0" cy="0" r="38" class="rank-circle" />
+    <text x="-14" y="8" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="24" font-weight="bold" fill="#38bdf8">A+</text>
+  </g>
+</svg>

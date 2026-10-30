@@ -112,7 +112,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-### 🚀 Featured Engineering Repositories
+### 🚀 Featured Production Engineering Repositories
 
 | Repository | Focus Area | Key Architectural Highlights |
 | :--- | :--- | :--- |
@@ -141,27 +141,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-### 🏅 GitHub Trophies & Achievements
+### 📊 GitHub Analytics & Performance
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1-Anand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-### 📊 GitHub Analytics & Contribution Graph
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=1-Anand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=1-Anand&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1-Anand&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Anand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- Full-Width Neon Contribution Activity Graph -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=1-Anand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 <!-- Animated Moving Water Wave Footer -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b42bc,50:0072ff,100:00c6ff&height=130&section=footer&text=Let's%20Build%20%26%20Automate%20at%20Scale%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="Wave Footer" />
+  <img src="./assets/wave-footer.svg" alt="Wave Footer" width="100%" />
 </p>

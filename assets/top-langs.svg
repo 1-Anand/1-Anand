@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f0f6fc; }
+    .lang-pct { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="349" height="194" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" class="header">Most Used Languages</text>
+  
+  <!-- Multi-color progress bar -->
+  <g transform="translate(25, 55)">
+    <rect x="0" y="0" width="300" height="10" rx="5" fill="#21262d"/>
+    <rect x="0" y="0" width="120" height="10" rx="5" fill="#7B42BC"/>
+    <rect x="120" y="0" width="85" height="10" rx="0" fill="#3572A5"/>
+    <rect x="205" y="0" width="50" height="10" rx="0" fill="#89e051"/>
+    <rect x="255" y="0" width="30" height="10" rx="0" fill="#384d54"/>
+    <rect x="285" y="0" width="15" height="10" rx="5" fill="#cb171e"/>
+  </g>
+
+  <g transform="translate(25, 90)">
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="5" r="5" fill="#7B42BC"/>
+      <text x="18" y="9" class="lang-name">HCL (Terraform)</text>
+      <text x="115" y="9" class="lang-pct">40.2%</text>
+    </g>
+    <g transform="translate(155, 0)">
+      <circle cx="5" cy="5" r="5" fill="#3572A5"/>
+      <text x="18" y="9" class="lang-name">Python</text>
+      <text x="90" y="9" class="lang-pct">28.5%</text>
+    </g>
+    <g transform="translate(0, 30)">
+      <circle cx="5" cy="5" r="5" fill="#89e051"/>
+      <text x="18" y="9" class="lang-name">Shell / Bash</text>
+      <text x="115" y="9" class="lang-pct">16.8%</text>
+    </g>
+    <g transform="translate(155, 30)">
+      <circle cx="5" cy="5" r="5" fill="#384d54"/>
+      <text x="18" y="9" class="lang-name">Dockerfile</text>
+      <text x="90" y="9" class="lang-pct">10.1%</text>
+    </g>
+    <g transform="translate(0, 60)">
+      <circle cx="5" cy="5" r="5" fill="#cb171e"/>
+      <text x="18" y="9" class="lang-name">YAML / CI-CD</text>
+      <text x="115" y="9" class="lang-pct">4.4%</text>
+    </g>
+  </g>
+</svg>

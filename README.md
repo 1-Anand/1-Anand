@@ -1,46 +1,47 @@
-<!-- Banner Image -->
+<!-- Animated Moving Water Wave Header -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="MasterHead" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7b42bc&height=230&section=header&text=Anand%20Bhushan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20/%20Senior%20Azure%20DevOps%20Engineer%20%7C%20CKA%20%E2%80%A2%20AZ-400%20%E2%80%A2%20AZ-104%20%E2%80%A2%20AI-102&descAlignY=58&descSize=18" alt="Wave Header" />
 </p>
 
-<!-- Heading -->
-<h1 align="center">Hi 👋, I'm Anand Bhushan</h1>
-<h3 align="center">Lead / Senior Azure DevOps Engineer | CKA, AZ-400, AZ-104 & AI-102 Certified | 10 Yrs IT (6.5+ Yrs Cloud & DevOps)</h3>
+<!-- Live Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=10+Years+in+IT+%7C+6.5%2B+Years+in+Azure+Cloud+%26+DevOps;Architecting+Secure+Azure+IaaS%2FPaaS+%26+Private+VNet+Ecosystems;Kubernetes+(AKS)+%E2%80%A2+Terraform+%E2%80%A2+Azure+DevOps+%E2%80%A2+GitHub+Actions;Certified+Kubernetes+Administrator+(CKA)+%26+Azure+AI+Engineer" alt="Typing SVG" />
+</p>
 
-<!-- Social & Contact Badges -->
+<!-- Social Badges & Profile Views (No Email / No Resume) -->
 <p align="center">
   <a href="https://linkedin.com/in/1-anand" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/1_anand_bhushan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
-  <a href="mailto:anandbhushan.inbox@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://drive.google.com/file/d/14QsHiIhO5jW-_HKxCYBm46ZrSYa7i4-X/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View_Resume-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=1-Anand&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<hr/>
+<!-- Animated Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
 
 <!-- Animated Image on Right -->
-<img align="right" width="360" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" />
+<img align="right" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="DevOps Animation" />
 
 ### 👨‍💻 About Me
 - 🚀 **10 years of IT experience** with **6.5+ years** specializing in **Azure Cloud, Kubernetes (AKS), Infrastructure as Code, and DevSecOps**
-- 🏗️ Architecting secure **Azure IaaS/PaaS** environments with **VNet Integration, Private Endpoints, Private DNS, and Workload Identity Federation**
+- 🏗️ Designing secure **Azure IaaS/PaaS** environments with **VNet Integration, Private Endpoints, Private DNS, and Workload Identity Federation**
 - ⚙️ Building multi-stage CI/CD pipelines & containerized self-hosted agents on **Azure Container Apps (ACA)**
-- 🌱 Currently exploring **AIOps, Azure OpenAI Workloads, and Platform Engineering**
+- 🌱 Exploring **AIOps, Azure OpenAI Workloads, and Platform Engineering**
 - 💬 Ask me about **AKS, Terraform, Azure DevOps, GitHub Actions, Docker, Helm & Cloud Security**
-- 📫 Reach me at: **anandbhushan.inbox@gmail.com**
+- 🤝 Connect with me on **[LinkedIn](https://linkedin.com/in/1-anand)** for professional collaborations
 
 <br clear="both"/>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
 
-### 🏆 Certifications (Click to Verify)
+### 🏆 Certifications (Click Badges to Verify)
 <p align="left">
   <a href="https://www.credly.com/badges/cd5003e7-68fc-4820-bad7-b51878eac831/public_url" target="_blank">
     <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
@@ -62,9 +63,11 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
 
-### 🛠️ Cloud, DevOps & Tech Stack
+### 🛠️ Cloud, DevOps & Tech Arsenal
 
 **Cloud & Infrastructure as Code:**
 <p align="left">
@@ -100,10 +103,21 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
----
-
-### 📊 GitHub Analytics
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=1-Anand&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Anand&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+### 📊 GitHub Analytics & Activity
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=1-Anand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=1-Anand&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Anand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- Animated Moving Water Wave Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b42bc,50:0072ff,100:00c6ff&height=130&section=footer" alt="Wave Footer" />
 </p>

@@ -118,6 +118,48 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
+### 🌟 Featured Enterprise Cloud & DevOps Projects
+
+<div align="center">
+
+| Repository | Focus & Architecture | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [**Terraform-Modules**](https://github.com/1-Anand/Terraform-Modules) | Enterprise reusable Azure IaC modules (VNet, AKS, KeyVault) | `Terraform` `Azure` `HCL` | ![Production-Ready](https://img.shields.io/badge/Production--Ready-00c6ff?style=flat-square) |
+| [**AKS-With-ArgoCD**](https://github.com/1-Anand/AKS-With-ArgoCD) | GitOps Continuous Delivery & Helm deployments on AKS | `ArgoCD` `Kubernetes` `Helm` | ![GitOps-Active](https://img.shields.io/badge/GitOps--Active-326CE5?style=flat-square) |
+| [**azure-terraform-resource-importer**](https://github.com/1-Anand/azure-terraform-resource-importer) | Automated Azure RG discovery, state import & IaC generator | `PowerShell` `Terraform` `Azure` | ![Automation](https://img.shields.io/badge/Automation-7B42BC?style=flat-square) |
+| [**azure-paas-enterprise-infra**](https://github.com/1-Anand/azure-paas-enterprise-infra) | Secure Azure PaaS with Private Endpoints & Zero-Trust DNS | `Azure PaaS` `Networking` `Security` | ![Security-Hardened](https://img.shields.io/badge/Zero--Trust-0078D4?style=flat-square) |
+| [**terraform-azure-landing-zone**](https://github.com/1-Anand/terraform-azure-landing-zone) | Enterprise Cloud Adoption Framework (CAF) Multi-Sub Zone | `Terraform` `CAF` `Azure` | ![Enterprise](https://img.shields.io/badge/Enterprise--CAF-success?style=flat-square) |
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+### 🎖️ GitHub Achievements & Badges
+
+<p align="center">
+  <a href="https://github.com/1-Anand?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-72536c1b.png" width="85" alt="Pull Shark" title="Pull Shark: Merged Pull Requests" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/1-Anand?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8.png" width="85" alt="Quickdraw" title="Quickdraw: Closed within 5 minutes" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/1-Anand?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff4.png" width="85" alt="YOLO" title="YOLO: Merged without review" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/1-Anand?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e95e8623.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored merged PR" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
 ### 📊 GitHub Analytics & Performance
 <p align="center">
   <img src="./assets/github-stats.svg" alt="GitHub Stats" />

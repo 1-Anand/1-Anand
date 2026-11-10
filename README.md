@@ -59,19 +59,19 @@
   <a href="https://www.credly.com/badges/cd5003e7-68fc-4820-bad7-b51878eac831/public_url" target="_blank">
     <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/bhushananand-0393/credentials/331471ce2509e50a" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/331471CE2509E50A?sharingId=A2BAFE8E5363E046" target="_blank">
     <img src="https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/bhushananand-0393/credentials/a6020d43124ac82d" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/A6020D43124AC82D?sharingId=A2BAFE8E5363E046" target="_blank">
     <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/bhushananand-0393/credentials/266f6d2dff6245dc" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/266F6D2DFF6245DC?sharingId=A2BAFE8E5363E046" target="_blank">
     <img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-102" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/bhushananand-0393/credentials/fe6953d2cfa69ce1" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/FE6953D2CFA69CE1?sharingId=A2BAFE8E5363E046" target="_blank">
     <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/bhushananand-0393/credentials/1ce3e227cd9ce8b9" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BhushanAnand-0393/1CE3E227CD9CE8B9?sharingId=A2BAFE8E5363E046" target="_blank">
     <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-900" />
   </a>
 </p>
